@@ -1,0 +1,6 @@
+dist/
+venv3/
+build/
+sfindpy.egg-info/
+*.pyc
+sfindpy_report/
